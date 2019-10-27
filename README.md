@@ -20,7 +20,7 @@ It allows easy text sharing through the web. It has suppor for folders, .zip dow
 * **URL:** http://dontpad.com/
 
 ## Dontmix
-It allows easy easy playlist generation.
+It allows easy playlist generation.
 
 * **Source code:** https://github.com/fga-funcional/dontmix
 
